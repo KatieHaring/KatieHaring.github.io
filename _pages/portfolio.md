@@ -8,6 +8,16 @@ author_profile: true
 {% include base_path %}
 
 
+## [Low Back Pain Study](https://doi.org/10.1016/j.xnsj.2021.100051)
+
+
+I performed the analysis for this paper during my time at Highmark Health. The paper took a while to write, edit, and submit, so it was published after I had already left the company.
+
+  
+<img src="/images/weight_change_calc.JPG" width="800" height="400">
+
+---
+
 ## [Weight Change Calculator](https://katieharing.shinyapps.io/WeightChangeCalculator/)
 
 
