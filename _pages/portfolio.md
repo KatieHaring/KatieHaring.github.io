@@ -14,7 +14,7 @@ author_profile: true
 I performed the analysis for this paper during my time at Highmark Health. The paper took a while to write, edit, and submit, so it was published after I had already left the company.
 
   
-<img src="/images/weight_change_calc.JPG" width="800" height="400">
+<img src="/images/LowBackPain.JPG" width="800" height="400">
 
 ---
 
