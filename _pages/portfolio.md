@@ -8,6 +8,17 @@ author_profile: true
 {% include base_path %}
 
 
+
+## [U.S. State Clustering using a SOM](https://rpubs.com/kmhst25/StateClusteringSOM)
+
+
+I created a Self Organizing Map to create clusters of U.S. states (including Washington, D.C.) and determine if the standard regional groupings (Midwest, New England, etc.) are truly reflective of states’ characteristics. I created this model just to test my skills and stay sharp. It's more of a practice exercise than a comprehensive analysis.
+
+  
+<img src="/images/StateClustering.JPG" width="800" height="400">
+
+---
+
 ## [Low Back Pain Study](https://doi.org/10.1016/j.xnsj.2021.100051)
 
 
