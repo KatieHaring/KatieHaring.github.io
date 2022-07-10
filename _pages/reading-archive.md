@@ -19,7 +19,7 @@ Galit Shmueli wrote a fantastic book called Data Mining for Business Analytics t
 
 ## January 2022
 ### Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck
-<img src="/images/PractStatsforDS2.jpg" width="200" height="310">
+<img src="/images/PractStatsforDS3.jpg" width="200" height="310">
 
 Practical Statistics for Data Scientists contains information on many data science techniques, with example code in both Python and R. I primarily use R, but I know that Python may someday be necessary or convenient, and this book should help get me started if I ever make that switch. 
 
