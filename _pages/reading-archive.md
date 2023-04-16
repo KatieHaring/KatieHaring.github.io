@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Practical Time Series Forecasting with R by Galit Shmueli and Kenneth C. Lichtetndahl Jr.
+## Run Related Probability Functions by Galit Shmueli
 
 <img src="/images/PractTimeSeriesFore.jpg" width="200" height="310">
 
@@ -17,8 +17,16 @@ Galit Shmueli wrote a fantastic book called Data Mining for Business Analytics t
 
 # Previous
 
-## January 2022
+## December 2022
+### Practical Time Series Forecasting with R by Galit Shmueli and Kenneth C. Lichtetndahl Jr.
+
+<img src="/images/PractTimeSeriesFore.jpg" width="200" height="310">
+
+Galit Shmueli wrote a fantastic book called Data Mining for Business Analytics that we used in my Master's program. She really excels at explaining complex topics in a way that's easy to understand. I had always wanted to learn more about time series forecasting, so I was extremely pleased to see that Dr. Shmueli had written on this topic.
+
+## February 2022
 ### Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck
+
 <img src="/images/PractStatsforDS3.jpg" width="200" height="310">
 
 Practical Statistics for Data Scientists contains information on many data science techniques, with example code in both Python and R. I primarily use R, but I know that Python may someday be necessary or convenient, and this book should help get me started if I ever make that switch. 
