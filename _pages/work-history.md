@@ -9,10 +9,12 @@ author_profile: true
 * **October 2020 - Present: Lead Analyst** 
   * Duquesne Light Company
   * Pittsburgh, PA
-    * Working on inter-departmental projects using R, Power BI, SQL, and Microsoft Suite
-    * Teaching 4-part Introduction to R training series
-    * Conducting statistical analysis, modeling, and machine learning using RStudio
-    * Identifying and pitching potential projects, helping form team structure and methodology
+
+    * Focusing on cross-functional projects using R, Databricks, SQL, and Microsoft Suite
+    * Performing all stages of the data analytics lifecycle, including: data cleansing, data transformation, analysis/modeling, and presentation to all levels of management
+    * Conducting statistical analysis, modeling, and machine learning using Databricks and RStudio 
+    * Mentoring colleagues, creating documentation, and helping form team structure and methodology
+    * Created and taught a 4-part Introduction to R training series
 
 * **September 2020 - October 2020: Lead Analyst** 
   * Gateway Health
