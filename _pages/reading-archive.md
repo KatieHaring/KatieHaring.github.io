@@ -9,9 +9,9 @@ author_profile: true
 
 ## Run Related Probability Functions by Galit Shmueli
 
-<img src="/images/PractTimeSeriesFore.jpg" width="200" height="310">
+<img src="/images/RunRelatedProbFunctions.jpg" width="200" height="310">
 
-Galit Shmueli wrote a fantastic book called Data Mining for Business Analytics that we used in my Master's program. She really excels at explaining complex topics in a way that's easy to understand. I have minimal experience with time series forecasting, and I have always wanted to get stronger in that area, so I was extremely pleased to see that Dr. Shmueli had written on this topic.
+Some of my previous actuarial exams dealt with run related probability functions in a limited capacity. I thought it would interesting to revisit this material in more depth and read something with a statistical focus, as opposed to the code-heavy books that I tend to favor.
 
 ---
 
@@ -22,7 +22,7 @@ Galit Shmueli wrote a fantastic book called Data Mining for Business Analytics t
 
 <img src="/images/PractTimeSeriesFore.jpg" width="200" height="310">
 
-Galit Shmueli wrote a fantastic book called Data Mining for Business Analytics that we used in my Master's program. She really excels at explaining complex topics in a way that's easy to understand. I had always wanted to learn more about time series forecasting, so I was extremely pleased to see that Dr. Shmueli had written on this topic.
+Galit Shmueli co-wrote a fantastic book called Data Mining for Business Analytics that we used in my Master's program. She really excels at explaining complex topics in a way that's easy to understand. I had always wanted to learn more about time series forecasting, so I was extremely pleased to see that Dr. Shmueli had written on this topic.
 
 ## February 2022
 ### Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, and Peter Gedeck
