@@ -10,23 +10,25 @@ author_profile: true
 
 **Programming Languages** 
   * R
-  * SAS
   * SQL
+  * SAS
   * VBA
+  * Limited Python
 
     
 **Software** 
+  * Databricks
   * RStudio
     * Shiny
   * SAS/SAS EG
   * SQL Server
+  * SQL Developer
   * JMP
   * Alteryx
   * Microsoft Suite
   * Tableau
   * Power BI
   * Qualtrics
-  * Clarabridge
 
 
 **Statistical Methods/Models** 
