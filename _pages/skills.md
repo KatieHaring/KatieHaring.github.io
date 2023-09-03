@@ -9,47 +9,45 @@ author_profile: true
 
 
 **Programming Languages** 
-  * R
+  * Python
+  * R 
   * SQL
   * SAS
   * VBA
-  * Limited Python
 
     
 **Software** 
+  * Alteryx
   * Databricks
+  * GitBash
+  * JMP
+  * Microsoft Suite
+  * Power BI
+  * Qualtrics
   * RStudio
     * Shiny
   * SAS/SAS EG
+  * Spyder
   * SQL Server
   * SQL Developer
-  * JMP
-  * Alteryx
-  * Microsoft Suite
   * Tableau
-  * Power BI
-  * Qualtrics
 
 
 **Statistical Methods/Models** 
-  * Linear / Polynomial Regression
-  * Logistic Regression
   * ANOVA
   * Cross Validation
   * Decision Trees / Random Forests
-  * Local Regression
-  * LASSO
-  * Ridge Regression
-  * SVMs
-  * Neural Networks
-  * Discriminant Analysis
-  * KNN
+  * Ensemble Models
   * Hierarchical Clustering
   * K-Means Clustering
-  * Principle Components Analysis
-  * Ensemble Models
-  * Bagging
-  * Boosting
+  * KNN
+  * LASSO
+  * Linear / Polynomial Regression
+  * Local Regression
+  * Logistic Regression
   * Naive Bayes
-  * Text Analysis
+  * Neural Networks
+  * Principle Components Analysis
+  * Ridge Regression
+  * SVMs
   * etc.
