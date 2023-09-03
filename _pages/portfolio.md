@@ -9,6 +9,16 @@ author_profile: true
 
 
 
+## [Beat 'em Up Python Terminal Game](https://github.com/KatieHaring/Python_Projects/blob/master/Beatemup_Game.py)
+
+
+This terminal game was created as a final project for a Codecadamy Python course. Play it in the terminal of any Python IDE; I used Spyder to write and test it. 
+
+  
+<img src="/images/Beat_em_up.JPG" width="800" height="400">
+
+---
+
 ## [U.S. State Clustering using a SOM](https://rpubs.com/kmhst25/StateClusteringSOM)
 
 
