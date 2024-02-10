@@ -9,12 +9,12 @@ author_profile: true
 * **October 2020 - Present: Lead Analyst** 
   * Duquesne Light Company
   * Pittsburgh, PA
-
-    * Focusing on cross-functional projects using R, Databricks, SQL, and Microsoft Suite
-    * Performing all stages of the data analytics lifecycle, including: data cleansing, data transformation, analysis/modeling, and presentation to all levels of management
+    
     * Conducting statistical analysis, modeling, and machine learning using Databricks and RStudio 
-    * Mentoring colleagues, creating documentation, and helping form team structure and methodology
-    * Created and taught a 4-part Introduction to R training series
+    * Focusing on cross-functional projects and advanced analytics using R, Databricks, SQL, and Microsoft Suite
+    * Performing all stages of the data analytics lifecycle, including: data cleansing & transformation, analysis & modeling, and presentation to all levels of management
+    * Created a predictive model for a marketing campaign that increase campaign engagement by over 200%
+    * Received Employee Excellence Award - 2023
 
 * **September 2020 - October 2020: Lead Analyst** 
   * Gateway Health
