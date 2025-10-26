@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome!
  
-My name is Katie Haring, and I am currently a Lead Analyst at Duquesne Light Company. I have a Master of Science in Applied Statistics & Analytics and over 9 years of experience working in analytics. My career has given me strong skills in data wrangling, coding, statistical modeling, and data visualization. 
+My name is Katie Haring, and I am currently a Lead Analyst II at Duquesne Light Company. I have a Master of Science in Applied Statistics & Analytics and over 10 years of experience working in analytics. My career has given me strong skills in data wrangling, coding, statistical modeling, and data visualization. 
 
 I started my career in actuarial roles, but quickly realized that I wanted to broaden my analytical horizons and expand my skill set. This led me to more diverse analytics roles utilizing HR and healthcare data, where I developed a passion for statistical modeling and decided to pursue my Masters in Applied Statistics and Analytics. I graduated in May 2020 with a 4.00 GPA while continuing to perform full-time analytics work. A full listing of the classes in my program can be found on the Education tab. Some examples of the projects I completed for my degree, as well as personal projects that I work on in my spare time, can be found on the Portfolio tab.
 
